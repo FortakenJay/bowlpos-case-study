@@ -10,11 +10,11 @@ Source stays private. Demo on request.
 
 | Staff POS | Owner admin |
 |---|---|
-| ![Sign in to the staff POS](docs/media/pos.jpg) | ![Sign in to the owner admin](docs/media/admin.jpg) |
+| ![Staff home: dine-in, takeout, delivery, phone, kitchen](docs/media/pos.jpg) | ![Admin dashboard for the day: orders, payments, order types](docs/media/admin.jpg) |
+
+The staff home is the Test Restaurant account. The kitchen queue was empty when this was taken. The admin dashboard is the same account, which is a staff role, so the page says a staff profile is not an owner or manager. The numbers are zeros because that restaurant had no orders that day.
 
 ![Marketing site](docs/media/marketing.jpg)
-
-The signed-in floor and the live dashboard are not shown here. Those screens hold restaurant tickets.
 
 ## What it does
 
